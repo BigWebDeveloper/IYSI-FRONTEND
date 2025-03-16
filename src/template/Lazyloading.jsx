@@ -1,4 +1,4 @@
-import LazyLoad from 'react-lazy-load'
+import LazyLoad from 'react-lazyload'
 
 const Lazyloading = (item) => {
   return (
